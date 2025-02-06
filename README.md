@@ -1,5 +1,7 @@
 # INIPWN3 - Enhanced INI File Manipulator
 
+![Main Banner](res/main.png)
+
 ## Overview
 INIPWN3 is a powerful command-line tool for viewing, editing, and managing INI configuration files. It provides an interactive, user-friendly (lol) interface with syntax highlighting, search functionality, and inline editing for seamless modification of INI files.
 
@@ -11,6 +13,8 @@ INIPWN3 is a powerful command-line tool for viewing, editing, and managing INI c
 - **Search Functionality**: Find and navigate between specific keys or values.
 - **Inline Editing**: Modify key-value pairs directly within the editor.
 - **File Selection Interface**: Easily browse and choose INI files from the current directory.
+
+![Secondary Banner](res/2nd.png)
 
 ## Installation
 ### Prerequisites
